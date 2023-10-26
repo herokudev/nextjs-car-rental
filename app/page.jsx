@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Hero from "../components/hero";
+import Hero from "../components/Hero";
 import SearchBar from "@/components/SearchBar";
 import CustomFilter from "@/components/CustomFilter";
 import CarCard from "@/components/CarCard";
